@@ -10,9 +10,8 @@ Transformo ideias soltas em projetos utilizáveis — do backend ao painel, do f
 
 | Projeto | O que é |
 | --- | --- |
-| **AtendON** · [apps/atendon](https://github.com/darkgoed/apps) | CRM de atendimento multi-WhatsApp: automações, IA no fluxo de conversa, agendamento e painel em tempo real |
+| **AtendON** · [atendon](https://github.com/darkgoed/atendon) | CRM de atendimento multi-WhatsApp: automações, IA no fluxo de conversa, agendamento e painel em tempo real |
 | **darkzero** · [darkzero](https://github.com/darkgoed/darkzero) | Firmware multi-ferramenta para ESP32, construído com PlatformIO |
-| **apps** · [apps](https://github.com/darkgoed/apps) | Monorepo com os produtos: AtendON, outros CRMs, dashboards e sistemas internos |
 
 ## Stack
 
