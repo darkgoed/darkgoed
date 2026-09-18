@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="204" viewBox="0 0 660 204" role="img" aria-label="Terminal darkgoed">
+  <rect x="0.5" y="0.5" width="659" height="203" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="22" r="6" fill="#28c840"/>
+  <text x="330" y="26" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="#8b949e">darkgoed@github: ~</text>
+  <line x1="1" y1="40" x2="659" y2="40" stroke="#21262d"/>
+  <g font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.966;1" dur="12s" repeatCount="indefinite"/>
+    <text x="28" y="66" fill="#3fb950">$</text>
+    <clipPath id="l1"><rect x="44" y="52" width="0" height="20"><animate attributeName="width" values="0;70;70;70" keyTimes="0;0.10;0.966;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="44" y="66" fill="#e6edf3" clip-path="url(#l1)">whoami</text>
+    <g>
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.117;0.966" calcMode="discrete" dur="12s" repeatCount="indefinite"/>
+      <text x="44" y="88" fill="#8b949e">darkgoed · dev full-stack</text>
+    </g>
+    <text x="28" y="110" fill="#3fb950">$</text>
+    <clipPath id="l2"><rect x="44" y="96" width="0" height="20"><animate attributeName="width" values="0;0;155;155" keyTimes="0;0.183;0.35;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="44" y="110" fill="#e6edf3" clip-path="url(#l2)">atendon --status</text>
+    <text x="210" y="110" fill="#e6edf3">⠋<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.35;0.3683" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠙<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3683;0.3867" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠹<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3867;0.405" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠸<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.405;0.4233" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠼<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4233;0.4417" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠴<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4417;0.46" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠦<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.46;0.4783" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠧<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4783;0.4967" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠇<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4967;0.515" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <text x="210" y="110" fill="#e6edf3">⠏<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.515;0.5333" calcMode="discrete" dur="12s" repeatCount="indefinite"/></text>
+    <g>
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.542;0.966" calcMode="discrete" dur="12s" repeatCount="indefinite"/>
+      <text x="44" y="132"><tspan fill="#3fb950">●</tspan><tspan fill="#8b949e"> online · CRM multi-WhatsApp · automações · IA</tspan></text>
+    </g>
+    <text x="28" y="154" fill="#3fb950">$</text>
+    <rect x="44" y="142" width="8.4" height="16" fill="#e6edf3">
+      <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
