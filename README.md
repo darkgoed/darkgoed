@@ -1,5 +1,7 @@
 # darkgoed
 
+![terminal ascii animado](./terminal.svg)
+
 Desenvolvedor focado em produtos digitais: sistemas web, CRMs, automações com IA e ferramentas técnicas.
 
 Transformo ideias soltas em projetos utilizáveis — do backend ao painel, do firmware ao deploy.
