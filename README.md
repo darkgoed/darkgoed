@@ -34,8 +34,3 @@ Transformo ideias soltas em projetos utilizáveis — do backend ao painel, do f
 - Interfaces objetivas, responsivas e orientadas ao uso real.
 - Backends simples de manter, com foco em entrega e estabilidade.
 - Automações para eliminar trabalho repetitivo e acelerar operações.
-
-<p>
-  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=darkgoed&show_icons=true&theme=transparent&hide_border=true&rank_icon=github">
-  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkgoed&layout=compact&theme=transparent&hide_border=true">
-</p>
